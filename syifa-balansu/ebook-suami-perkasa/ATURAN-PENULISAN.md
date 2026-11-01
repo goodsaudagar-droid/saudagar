@@ -1,7 +1,9 @@
 # ATURAN PENULISAN E-BOOK
 ## Menjadi Suami Perkasa — Kuat Raga, Kokoh Jiwa, Qowwam dalam Rumah Tangga
 
-Bonus eksklusif untuk klien paket **Thera Perkasa Balansu** — Syifa Balansu, Bukittinggi.
+Bonus eksklusif untuk peserta **Thera Perkasa Balansu** — Syifa Balansu, Bukittinggi.
+
+**Tentang program:** layanan terapi vitalitas pria (terapi rangka + penguatan otot), murni jasa terapi (bukan produk), khusus suami Muslim yang beristri sah. Peserta mendapat pendampingan lewat grup WA "Thera Perkasa Balansu" dan 3 e-book bonus; buku ini salah satunya. Kerangka bab ada di `KERANGKA.md`.
 
 Dokumen ini adalah aturan baku. Setiap bab wajib lolos semua aturan sebelum dianggap selesai.
 
@@ -10,7 +12,7 @@ Dokumen ini adalah aturan baku. Setiap bab wajib lolos semua aturan sebelum dian
 ## 1. TUJUAN BUKU
 
 1. **Memberi nilai nyata** kepada klien sehingga bonus terasa lebih berharga daripada harganya.
-2. **Memperpanjang hasil terapi** dengan membuat klien tetap bergerak dan menjaga tubuh di rumah.
+2. **Memperpanjang hasil terapi vitalitas** dengan membuat klien tetap berlatih dan menjaga tubuh di rumah, selaras dengan pendampingan grup WA.
 3. **Membangun kepercayaan dan loyalitas** sehingga klien kembali kontrol, melanjutkan paket, dan merekomendasikan klinik.
 4. **Memperkuat posisi Syifa Balansu** sebagai klinik yang memulihkan fungsi tubuh, bukan sekadar tempat pijat.
 
@@ -21,7 +23,7 @@ Ukuran keberhasilan: klien membaca sampai habis, mempraktikkan minimal 1 gerakan
 ## 2. PROFIL PEMBACA
 
 - **Utama:** suami Muslim usia 28–55 tahun, Sumatera Barat dan sekitarnya, pekerja, pedagang, atau pengusaha.
-- **Keluhan umum:** pinggang dan punggung pegal, cepat lelah, stamina turun, stres pekerjaan, kurang gerak, dan berat badan naik.
+- **Keluhan umum:** vitalitas dan stamina menurun, pinggang dan punggung pegal, cepat lelah, stres pekerjaan, kurang gerak, dan berat badan naik.
 - **Kebutuhan batin:** ingin dihormati istri, ingin menjadi pemimpin keluarga yang tenang dan disegani, serta ingin tetap bugar di usia matang.
 - **Kebiasaan membaca:** di HP lewat PDF WhatsApp, sedikit-sedikit di sela kerja atau sebelum tidur. Tidak suka teori panjang.
 - **Pembaca kedua:** istri, yang sering ikut membaca. Setiap kalimat harus aman dan terhormat bila dibaca istri.
@@ -42,7 +44,7 @@ Ukuran keberhasilan: klien membaca sampai habis, mempraktikkan minimal 1 gerakan
 2. **Sapaan pembaca:** "Anda". Penulis menyebut diri "kami" (tim Syifa Balansu).
 3. **Islami secara wajar.** Dalil secukupnya, tidak menggurui, tidak menghakimi.
 4. **Hindari istilah medis rumit.** Jika terpaksa, langsung jelaskan dengan bahasa awam. Contoh: "otot inti (otot perut dan pinggang bagian dalam)".
-5. **Tanpa bahasa vulgar.** Topik keintiman ditulis dengan adab, kiasan sopan, dan istilah syar'i (jima', hubungan suami istri).
+5. **Tanpa bahasa vulgar.** Vitalitas dan keintiman adalah topik inti buku ini, tetapi ditulis dengan adab, kiasan sopan, dan istilah syar'i (jima', hubungan suami istri). Tanpa deskripsi teknis yang eksplisit.
 6. **Hindari kesan tulisan mesin:** tanpa frasa klise ("di era modern ini", "tidak dapat dipungkiri", "mari kita selami"), tanpa pengulangan pola kalimat, dan tanpa daftar berlebihan.
 7. **Kalimat aktif dan konkret.** Lebih baik "Duduk 3 jam tanpa bergerak membuat pinggang kaku" daripada "Kurangnya aktivitas dapat berdampak".
 
@@ -80,8 +82,10 @@ Panjang bab: 3–5 halaman. Bab gerakan boleh lebih panjang karena berisi gambar
 **Boleh:** "membantu", "lebih bugar", "terasa lebih ringan", "mendukung stamina", "memperbaiki pola gerak", "hasil bisa berbeda pada setiap orang".
 
 **DILARANG:**
-- "pasti perkasa", "dijamin kuat", "100% berhasil", "langsung tahan lama"
+- "pasti perkasa", "dijamin kuat", "100% berhasil", "langsung tahan lama", "ukuran bertambah"
 - "menyembuhkan impotensi / disfungsi ereksi / ejakulasi dini / diabetes / hipertensi / saraf kejepit"
+- "pengganti obat kuat", atau menjanjikan hasil dalam jumlah sesi tertentu
+- Statistik tanpa sumber jelas (mis. persentase porsi nafkah dari referensi) tidak boleh ditulis sebagai fakta ilmiah
 - "pengganti obat atau dokter", "tanpa ke dokter"
 - Menyebut atau mempromosikan obat kuat, suplemen, atau ramuan tertentu
 - Kata "diskon", "potongan harga", "pijat murah"
@@ -90,6 +94,8 @@ Panjang bab: 3–5 halaman. Bab gerakan boleh lebih panjang karena berisi gambar
 - Disclaimer di halaman awal dan di bab gerakan: *"Isi buku ini bersifat edukasi dan tidak menggantikan pemeriksaan atau pengobatan medis. Konsultasikan ke dokter bila memiliki penyakit tertentu."*
 - Peringatan keamanan setiap gerakan: hentikan bila nyeri tajam, pusing, atau sesak.
 - Tanda bahaya (red flag) yang mengharuskan ke dokter: nyeri dada, kebas menjalar, lemah anggota gerak, gangguan buang air, atau nyeri hebat setelah jatuh.
+- Gangguan vitalitas yang menetap wajib disarankan diperiksakan ke dokter, karena bisa terkait penyakit jantung, diabetes, atau hipertensi.
+- Klaim yang boleh untuk vitalitas: "latihan otot dasar panggul menurut penelitian dapat membantu fungsi vitalitas pria", "tubuh yang bugar mendukung stamina".
 
 ---
 
@@ -146,10 +152,10 @@ Panjang bab: 3–5 halaman. Bab gerakan boleh lebih panjang karena berisi gambar
 
 | Bagian | Halaman |
 |---|---|
-| Sampul, halaman personal, disclaimer, pengantar, daftar isi | 5 |
-| Bagian 1 — Kuat Raga (Bab 1–4) | 16 |
-| Bagian 2 — Kokoh Jiwa (Bab 5–8) | 12 |
-| Bagian 3 — Qowwam dalam Rumah Tangga (Bab 9–13) | 13 |
+| Sampul, halaman personal, disclaimer, pengantar, daftar isi | 4 |
+| Bagian 1 — Kuat Raga (Bab 1–5) | 16 |
+| Bagian 2 — Kokoh Jiwa (Bab 6–9) | 12 |
+| Bagian 3 — Qowwam dalam Rumah Tangga (Bab 10–14) | 14 |
 | Program 30 Hari, penutup, kontak, daftar pustaka | 4 |
 | **Total** | **50** |
 
