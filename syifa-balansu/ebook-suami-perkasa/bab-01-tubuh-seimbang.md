@@ -15,6 +15,8 @@ Pinggangnya terasa kaku. Ia harus berguling dulu ke samping, bertumpu pada siku,
 
 Saat rukuk di masjid, punggungnya terasa tertarik. Sore harinya, ia sudah lelah sebelum sampai di rumah. Istrinya mengajak berbincang, tetapi ia hanya ingin berbaring.
 
+Ada satu hal lagi yang tidak pernah ia ceritakan kepada siapa pun. Belakangan, gairahnya kepada istri ikut menurun. Malam-malam yang dulu hangat kini lebih sering berakhir dengan ia tertidur lebih dulu. Ia merasa bersalah, tetapi malu untuk membicarakannya.
+
 *"Mungkin memang sudah faktor umur,"* pikirnya.
 
 Benarkah begitu?
@@ -33,13 +35,29 @@ Padahal, ukuran perkasa dalam keseharian seorang suami jauh lebih sederhana:
 - Shalat dengan rukuk dan sujud yang nyaman.
 - Bekerja seharian dan masih punya tenaga untuk keluarga.
 - Mampu menggendong anak tanpa takut pinggang "kumat".
-- Tetap bugar dan bersemangat saat berdua dengan istri.
+- Tetap bugar, bergairah, dan mampu membahagiakan istri saat berdua.
 
 Inilah yang kami sebut **perkasa secara fungsi**: tubuh yang mampu menjalankan tugasnya dengan baik, setiap hari, tanpa banyak keluhan.
 
 Otot besar tidak menjamin hal itu. Banyak lelaki bertubuh kekar tetap mengeluh sakit pinggang. Sebaliknya, banyak lelaki bertubuh biasa justru lincah dan jarang mengeluh hingga usia lanjut.
 
 Perbedaannya ada pada satu hal: **keseimbangan tubuh**.
+
+---
+
+### Vitalitas Juga Bagian dari Fungsi Tubuh
+
+Banyak suami memisahkan dua hal ini: urusan pinggang di satu sisi, urusan ranjang di sisi lain. Seolah-olah keduanya tidak berhubungan.
+
+Padahal, vitalitas seorang lelaki sangat bergantung pada kondisi tubuhnya secara keseluruhan:
+
+- **Panggul dan pinggang** adalah rumah bagi otot dan saraf yang berperan dalam fungsi vitalitas.
+- **Aliran darah** yang lancar dipengaruhi oleh seberapa aktif tubuh bergerak.
+- **Stamina** ditentukan oleh seberapa hemat tubuh menggunakan tenaganya.
+
+Tubuh yang kaku, lelah, dan tidak seimbang hampir selalu ikut memengaruhi gairah dan kemampuan seorang suami di kamar. Sebaliknya, saat fungsi tubuh membaik, banyak suami merasakan vitalitasnya ikut membaik.
+
+Inilah alasan program **Thera Perkasa Balansu** dimulai dari rangka dan otot, bukan dari obat. Bab 2 akan membahasnya lebih dalam.
 
 ---
 
@@ -91,7 +109,7 @@ Inilah salah satu alasan mengapa banyak suami merasa:
 
 - Lelah padahal tidak bekerja berat.
 - Tidur cukup, tetapi bangun tetap pegal.
-- Semangat menurun di sore dan malam hari.
+- Semangat menurun di sore dan malam hari, tepat saat istri dan keluarga menunggu kehadirannya.
 
 Kabar baiknya: **pola gerak bisa diperbaiki**. Dengan latihan yang tepat dan konsisten, banyak orang merasakan tubuhnya lebih ringan, lebih lentur, dan lebih bertenaga. Hasilnya memang bisa berbeda pada setiap orang, tetapi langkah pertamanya selalu sama: mengenali kondisi tubuh sendiri.
 
@@ -133,7 +151,7 @@ Kaki kanan: ____ detik  Kaki kiri: ____ detik
 
 **Cara membaca hasil:**
 - Sebagian besar jawaban di kolom pertama berarti fungsi tubuh Anda cukup baik. Pertahankan.
-- Banyak jawaban di kolom kedua atau ketiga, atau ada perbedaan besar antara kaki kanan dan kiri, menandakan tubuh Anda butuh perhatian lebih. Bab 4 berisi gerakan yang bisa Anda mulai.
+- Banyak jawaban di kolom kedua atau ketiga, atau ada perbedaan besar antara kaki kanan dan kiri, menandakan tubuh Anda butuh perhatian lebih. Kondisi ini sering berjalan seiring dengan stamina dan vitalitas yang menurun. Bab 4 berisi latihan yang bisa Anda mulai.
 
 > ⚠️ **Perhatian:** Hentikan tes bila muncul nyeri tajam, pusing, atau rasa kebas yang menjalar. Tes ini hanya untuk mengenal tubuh sendiri, **bukan diagnosis**. Analisa lengkap dilakukan oleh terapis saat kunjungan.
 
@@ -143,20 +161,20 @@ Simpan hasil tes ini. Ulangi setelah 30 hari menjalankan program di akhir buku, 
 
 ### Kembali kepada Pak Rahmat
 
-Setelah menjalani analisa di Syifa Balansu, ternyata keluhan pinggang Pak Rahmat banyak dipengaruhi oleh panggul yang kaku dan kebiasaan duduk lama di toko.
+Setelah menjalani analisa di Syifa Balansu, ternyata keluhan pinggang Pak Rahmat banyak dipengaruhi oleh panggul yang kaku, otot inti yang lemah, dan kebiasaan duduk lama di toko.
 
-Ia mendapat beberapa gerakan sederhana untuk dilakukan setiap pagi dan sore. Ia juga mulai berdiri dan berjalan sebentar setiap satu jam.
+Ia mendapat beberapa latihan sederhana untuk dilakukan setiap pagi dan sore. Ia juga mulai berdiri dan berjalan sebentar setiap satu jam.
 
-Beberapa pekan kemudian, ia bercerita bahwa rukuknya terasa lebih nyaman dan sore hari ia tidak lagi langsung ingin berbaring. Ia merasa lebih punya tenaga untuk keluarganya.
+Beberapa pekan kemudian, ia bercerita bahwa rukuknya terasa lebih nyaman dan sore hari ia tidak lagi langsung ingin berbaring. Dengan senyum malu-malu, ia menambahkan bahwa hubungannya dengan istri juga terasa lebih hangat.
 
-Bukan keajaiban. Hanya tubuh yang mulai kembali seimbang.
+Bukan keajaiban, dan hasilnya bisa berbeda pada setiap orang. Hanya tubuh yang mulai kembali seimbang.
 
 ---
 
 ### 📌 Inti Bab Ini
 
-1. **Perkasa adalah soal fungsi**, bukan ukuran otot: tubuh yang mampu beribadah, bekerja, dan hadir untuk keluarga.
-2. **Tubuh adalah satu rangkaian.** Bagian yang sakit sering hanya menanggung akibat dari bagian lain yang kurang bekerja.
+1. **Perkasa adalah soal fungsi**, bukan ukuran otot: tubuh yang mampu beribadah, bekerja, dan membahagiakan keluarga.
+2. **Tubuh adalah satu rangkaian.** Pinggang, panggul, stamina, dan vitalitas saling terhubung.
 3. **Tubuh yang seimbang lebih hemat tenaga**, dan keseimbangan itu bisa dilatih.
 
 ---
