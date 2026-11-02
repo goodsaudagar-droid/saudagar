@@ -159,7 +159,7 @@ Panjang bab: 3–5 halaman. Bab gerakan boleh lebih panjang karena berisi gambar
 | Program 30 Hari, penutup, kontak, daftar pustaka | 4 |
 | **Total** | **50** |
 
-Kisaran: 11.000–13.000 kata.
+Kisaran awal: 11.000–13.000 kata. **Diperbarui:** target ±70 halaman (18.000–20.000 kata), sesuai keputusan owner. Bab di Bagian 2–3 sekitar 1.200–1.500 kata.
 
 ---
 

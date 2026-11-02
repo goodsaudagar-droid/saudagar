@@ -3,7 +3,7 @@
 
 Bonus eksklusif peserta **Thera Perkasa Balansu** (terapi vitalitas pria: terapi rangka + penguatan otot), Syifa Balansu, Bukittinggi.
 
-Target: 50 halaman A5, sekitar 12.000 kata.
+Target: ±70 halaman A5, sekitar 18.000–20.000 kata (disepakati owner: opsi A, isi lengkap).
 
 Kolom **Sumber gagasan** menunjukkan referensi yang menjadi inspirasi. Semua isi ditulis ulang, tanpa menyalin teks.
 
@@ -82,4 +82,6 @@ Kolom **Sumber gagasan** menunjukkan referensi yang menjadi inspirasi. Semua isi
 | Bagian 2 — Kokoh Jiwa | 12 |
 | Bagian 3 — Qowwam | 14 |
 | Penutup | 4 |
-| **Total** | **50** |
+| **Total (rencana awal)** | **50** |
+
+> Realisasi: Bagian 1 ±7.650 kata. Target total diperbarui menjadi ±70 halaman.
