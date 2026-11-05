@@ -372,8 +372,8 @@ Tidak. Gerakan disusun berdasarkan diagnosis pribadi, sehingga tidak bisa dipind
 >
 > Hubungi **Syifa Balansu** atau terapis biomekanik metode PAZ Al Kasaw di kota Anda.
 >
-> **Alamat:** *[alamat]*
-> **WhatsApp:** *[nomor]*
+> **Alamat:** *[alamat]*\
+> **WhatsApp:** *[nomor]*\
 > **Instagram:** *[akun]*
 
 ## Ringkasan Bab
